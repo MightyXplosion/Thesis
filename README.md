@@ -15,10 +15,11 @@ The associated python code for use with the AMMM model. All code has been commen
 The excel sheet for use with each code set can be found within the **conf** folder.
 Note that this code will not function without the AMMM model.
 
-**3. Presentations**
+**3. Presentation and MODSIM paper**
 
 This folder contains the presentation utilised during the SME verification presentation to Defence Industry specialists. Note that the comments within each page do not truly reflect the presentation given but were used as a guide during the presentation.
 A video recording of the presentation is held by the CSC at UNSW Canberra.
+Additionally the accepted MODSIM conferance paper is also contained within this folder.
 
 **4. Simulation Spreadsheets**
 
